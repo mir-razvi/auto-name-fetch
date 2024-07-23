@@ -1,4 +1,1 @@
-requests
-json
-base64
-zipfile
+os
